@@ -4,3 +4,4 @@ debian/*.subvars
 debian/*/*/*
 debian/files
 packaging/*/*
+.vscode
